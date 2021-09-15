@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="input_Hint_text">Hemal</string>
+    <string name="Create_wishesh">Create_wishesh</string>
+    <string name="create_wishesh">Create wishesh</string>
+    <string name="BirthdayGreeting">TextView</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
